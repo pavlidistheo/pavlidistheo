@@ -6,4 +6,4 @@ I am Theodoros Pavlidis, a Linux enthusiast from Greece.
 - E-mail: pavlidis@live.com
 - Twitter: https://twitter.com/pavlidistheo 
                   
-### ⚡ Fun fact: I don't use Arch by the way. 
+### ⚡ Fun fact: # I don't use Arch by the way. 
