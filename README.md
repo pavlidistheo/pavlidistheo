@@ -1,4 +1,4 @@
-### Hey there.
+### Hello everyone.
 
 I am Theodoros Pavlidis, a Linux enthusiast from Greece. 
 
